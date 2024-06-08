@@ -7,5 +7,5 @@ Then el usuario visualizará la lista de desarrolladores disponibles para ser co
 Example:
 
 | Lista de desarrolladores | 
-| Juan Quispe | Salim Vera |
+| Pedro Canovas | Sofia Fernandez |
 

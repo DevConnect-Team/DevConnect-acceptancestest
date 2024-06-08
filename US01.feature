@@ -12,4 +12,4 @@ Then el sistema guardará todos sus datos
 
 Examples:
     | Full Name | E-mail | Password |
-    | Rodrigo Sanchez Argento | Rogrido123@gmail.com | Rodrigo?203ñ
+    | Daniel Huaman Marcelo | daniel123@gmail.com | Daniel/2004

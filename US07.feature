@@ -7,13 +7,13 @@ Then será respondido por un support de la empresa
 Example:
 
 | Foro de consultas | 
-| He presentado un problema con el sistema de notificaciones |
+| He presentado un problema con el sistema de consultas |
 
 Scenario Outline: Usuario no resuelve su duda 
 Given el usuario se encuentra en el foro y subió su pregunta
 When subió y no le respondieron a su pregunta 
-Then el usuario debe de ir al apartado de "Atencion al cliente" y alguien le podrá ayudar 
+Then el usuario debe de ir al apartado de "Soporte" y alguien le podrá ayudar 
 Example:
 
 | Atención al cliente | 
-| Necesito ayuda personalizada en un problema con el sistema de notificaciones |
+| Necesito ayuda personalizada en un problema con el sistema de consultas |

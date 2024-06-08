@@ -9,7 +9,7 @@ Then podré conocer la fiabilidad de los desarrolladores
 Example:
 
 | Lista de desarrolladores | 
-| Juan Quispe - 5 estrellas |
+| Pedro Canovas - 5 estrellas |
 
 Scenario Outline: Dar una calificación
 Given soy un empresario
@@ -21,8 +21,4 @@ Then calificare al desarrollador
 Example:
 
 | Calificar | 
-| Juan Quispe - 5 estrellas |
-
-
-
-
+| Pedro Canovas - 5 estrellas |

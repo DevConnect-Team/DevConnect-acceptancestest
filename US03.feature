@@ -12,7 +12,3 @@ Scenario Outline: El desarrollador registra fechas en una aplicación distinta p
 Given el desarrollador desea organizar sus fechas de entrega en los avances de la página web
 When ingrese a una aplicación que no es la nuestra
 Then no será seguro que el desarrollador reciba notificaciones con anticipación para la entrega de sus avances
-
-
-
-
